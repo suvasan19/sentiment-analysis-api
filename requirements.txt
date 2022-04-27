@@ -1,0 +1,6 @@
+flask
+flask_cors
+nltk
+gunicorn
+tweepy
+stop_words
